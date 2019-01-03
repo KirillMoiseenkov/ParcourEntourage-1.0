@@ -1,0 +1,3338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-01-03T16:56:24.119+04:00
+  initializedAtString: 2019-01-03T16:56:24.119+04:00
+  log:
+  - commitID: 3bde410314a6a864930396a03379407516e4ede5
+    mergeA: 
+    mergeB: 
+    authorName: moiseenkov
+    authorEmail: kirillmoiseenkov@mail.ru
+    commitEmail: kirillmoiseenkov@mail.ru
+    commitName: moiseenkov
+    summary: and again initial
+    description: and again initial
+    timeString: 2019-01-03T16:32:08.000+04:00
+    commitTimeString: 2019-01-03T16:32:08.000+04:00
+    changes:
+    - path: Parcour.Editor.Plugins.csproj
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Parcour.Editor.Plugins.csproj
+      projectPath: Parcour.Editor.Plugins.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Parcour.Plugins.csproj
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Parcour.Plugins.csproj
+      projectPath: Parcour.Plugins.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Parcour.csproj
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Parcour.csproj
+      projectPath: Parcour.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Parcour.sln
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Parcour.sln
+      projectPath: Parcour.sln
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ParcourEntourage
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ParcourEntourage
+      projectPath: ParcourEntourage
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Profile\shadow.dat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Profile\shadow.dat
+      projectPath: Profile\shadow.dat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: packages.config
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\packages.config
+      projectPath: packages.config
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 78a8eeff3b15bc6cfe3ca87e4f796d7080382231
+    mergeA: 
+    mergeB: 
+    authorName: moiseenkov
+    authorEmail: kirillmoiseenkov@mail.ru
+    commitEmail: kirillmoiseenkov@mail.ru
+    commitName: moiseenkov
+    summary: assests
+    description: assests
+    timeString: 2019-01-03T16:29:20.000+04:00
+    commitTimeString: 2019-01-03T16:29:20.000+04:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp-firstpass.csproj
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assembly-CSharp-firstpass.csproj
+      projectPath: Assembly-CSharp-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\CharacterAnimator.controller
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\CharacterAnimator.controller
+      projectPath: Assets\Anims\CharacterAnimator.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Image.controller
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Image.controller
+      projectPath: Assets\Anims\Image.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_2.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_3.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_3.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_3.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_4.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_4.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_4.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_5.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_5.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_5.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_6.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_6.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_6.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_7.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_7.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_7.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_8.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_8.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_8.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_9.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_9.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_9.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_Second_Stage 1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_Second_Stage
+        1.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_Second_Stage 1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_Third_Stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_Third_Stage.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_Third_Stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\Blansh_second_stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\Blansh_second_stage.anim
+      projectPath: Assets\Anims\Player\Blansh\Blansh_second_stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh\blansh.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh\blansh.anim
+      projectPath: Assets\Anims\Player\Blansh\blansh.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh_7.fbx
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh_7.fbx
+      projectPath: Assets\Anims\Player\Blansh_7.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Blansh_8.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Blansh_8.anim
+      projectPath: Assets\Anims\Player\Blansh_8.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Character.controller
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Character.controller
+      projectPath: Assets\Anims\Player\Character.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\FallFlip\ForwardFlip_F.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\FallFlip\ForwardFlip_F.anim
+      projectPath: Assets\Anims\Player\FallFlip\ForwardFlip_F.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\FallFlip\ForwardFlip_exit_F.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\FallFlip\ForwardFlip_exit_F.anim
+      projectPath: Assets\Anims\Player\FallFlip\ForwardFlip_exit_F.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\FallFlip\Lending-2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\FallFlip\Lending-2.anim
+      projectPath: Assets\Anims\Player\FallFlip\Lending-2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\FallFlip\Lending.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\FallFlip\Lending.anim
+      projectPath: Assets\Anims\Player\FallFlip\Lending.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\FallFlip\Rotate_Back_true.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\FallFlip\Rotate_Back_true.anim
+      projectPath: Assets\Anims\Player\FallFlip\Rotate_Back_true.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\FallFlip\TGOF.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\FallFlip\TGOF.anim
+      projectPath: Assets\Anims\Player\FallFlip\TGOF.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Falling 1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Falling
+        1.anim
+      projectPath: Assets\Anims\Player\Falling 1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Falling.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Falling.anim
+      projectPath: Assets\Anims\Player\Falling.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Flyaq1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Flyaq1.anim
+      projectPath: Assets\Anims\Player\Flyaq1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Flyaq2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Flyaq2.anim
+      projectPath: Assets\Anims\Player\Flyaq2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\ForwardFlip\ForwardFlip.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\ForwardFlip\ForwardFlip.anim
+      projectPath: Assets\Anims\Player\ForwardFlip\ForwardFlip.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Jump_First_Stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Jump_First_Stage.anim
+      projectPath: Assets\Anims\Player\Jump_First_Stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Jump_Second_Stage 1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Jump_Second_Stage
+        1.anim
+      projectPath: Assets\Anims\Player\Jump_Second_Stage 1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Monkey.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Monkey.anim
+      projectPath: Assets\Anims\Player\Monkey.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Rotate.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Rotate.anim
+      projectPath: Assets\Anims\Player\Rotate.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Rotate_back.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Rotate_back.anim
+      projectPath: Assets\Anims\Player\Rotate_back.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Rotate_side.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Rotate_side.anim
+      projectPath: Assets\Anims\Player\Rotate_side.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Screw-5.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Screw-5.anim
+      projectPath: Assets\Anims\Player\Screw-5.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Screw_2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Screw_2.anim
+      projectPath: Assets\Anims\Player\Screw_2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Screw_3.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Screw_3.anim
+      projectPath: Assets\Anims\Player\Screw_3.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Screw_4.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Screw_4.anim
+      projectPath: Assets\Anims\Player\Screw_4.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\ShadowCn.controller
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\ShadowCn.controller
+      projectPath: Assets\Anims\Player\ShadowCn.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\SideFlip\SideFlip-1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\SideFlip\SideFlip-1.anim
+      projectPath: Assets\Anims\Player\SideFlip\SideFlip-1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\SideFlip\SideFlip-2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\SideFlip\SideFlip-2.anim
+      projectPath: Assets\Anims\Player\SideFlip\SideFlip-2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\SideFlip\SideFlip-3.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\SideFlip\SideFlip-3.anim
+      projectPath: Assets\Anims\Player\SideFlip\SideFlip-3.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\SimpleJump.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\SimpleJump.anim
+      projectPath: Assets\Anims\Player\SimpleJump.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Trigger\Materials\No Name.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Trigger\Materials\No
+        Name.mat
+      projectPath: Assets\Anims\Player\Trigger\Materials\No Name.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Trigger\SmallWallRun.fbx
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Trigger\SmallWallRun.fbx
+      projectPath: Assets\Anims\Player\Trigger\SmallWallRun.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Trigger\WallRun 1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Trigger\WallRun
+        1.anim
+      projectPath: Assets\Anims\Player\Trigger\WallRun 1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Trigger\WallRun 2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Trigger\WallRun
+        2.anim
+      projectPath: Assets\Anims\Player\Trigger\WallRun 2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\Trigger\WallRun.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\Trigger\WallRun.anim
+      projectPath: Assets\Anims\Player\Trigger\WallRun.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Assets\\Anims\\Player\\Trigger\\WallUp\u0421\u0420-7.fbx"
+      fullPath: "C:\\Users\\moiseenkov\\Desktop\\with new patterns 12.01.18\\Parcour\\Assets\\Anims\\Player\\Trigger\\WallUp\u0421\u0420-7.fbx"
+      projectPath: "Assets\\Anims\\Player\\Trigger\\WallUp\u0421\u0420-7.fbx"
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\WallRun.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\WallRun.anim
+      projectPath: Assets\Anims\Player\WallRun.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\WallUpSR-6.fbx
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\WallUpSR-6.fbx
+      projectPath: Assets\Anims\Player\WallUpSR-6.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\ArabicFlip_1Stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\ArabicFlip_1Stage.anim
+      projectPath: Assets\Anims\Player\arabh\ArabicFlip_1Stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\Arabic_1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\Arabic_1.anim
+      projectPath: Assets\Anims\Player\arabh\Arabic_1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\Arabic_2.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\Arabic_2.anim
+      projectPath: Assets\Anims\Player\arabh\Arabic_2.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\Arabic_3.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\Arabic_3.anim
+      projectPath: Assets\Anims\Player\arabh\Arabic_3.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\arabh_first_stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\arabh_first_stage.anim
+      projectPath: Assets\Anims\Player\arabh\arabh_first_stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\arabh_second_stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\arabh_second_stage.anim
+      projectPath: Assets\Anims\Player\arabh\arabh_second_stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\arabh\arabh_third_stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\arabh\arabh_third_stage.anim
+      projectPath: Assets\Anims\Player\arabh\arabh_third_stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\back_flip\BackFlipAfterJump.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\back_flip\BackFlipAfterJump.anim
+      projectPath: Assets\Anims\Player\back_flip\BackFlipAfterJump.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\back_flip\BackFlipBegin.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\back_flip\BackFlipBegin.anim
+      projectPath: Assets\Anims\Player\back_flip\BackFlipBegin.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\back_flip\back_flip_begin.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\back_flip\back_flip_begin.anim
+      projectPath: Assets\Anims\Player\back_flip\back_flip_begin.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\back_flip\back_flip_first_stage_original.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\back_flip\back_flip_first_stage_original.anim
+      projectPath: Assets\Anims\Player\back_flip\back_flip_first_stage_original.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\back_flip\back_flip_second_stage.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\back_flip\back_flip_second_stage.anim
+      projectPath: Assets\Anims\Player\back_flip\back_flip_second_stage.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\flyag.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\flyag.anim
+      projectPath: Assets\Anims\Player\flyag.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\flyag_rotate.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\flyag_rotate.anim
+      projectPath: Assets\Anims\Player\flyag_rotate.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\front_flip.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\front_flip.anim
+      projectPath: Assets\Anims\Player\front_flip.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\rondate.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\rondate.anim
+      projectPath: Assets\Anims\Player\rondate.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\run.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\run.anim
+      projectPath: Assets\Anims\Player\run.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\screw1.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\screw1.anim
+      projectPath: Assets\Anims\Player\screw1.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\Player\side_flip.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\Player\side_flip.anim
+      projectPath: Assets\Anims\Player\side_flip.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Anims\RotateAnima.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Anims\RotateAnima.cs
+      projectPath: Assets\Anims\RotateAnima.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material__46.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\Material__46.mat
+      projectPath: Assets\Materials\Material__46.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material__47.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\Material__47.mat
+      projectPath: Assets\Materials\Material__47.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material__49.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\Material__49.mat
+      projectPath: Assets\Materials\Material__49.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material__50.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\Material__50.mat
+      projectPath: Assets\Materials\Material__50.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material__51.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\Material__51.mat
+      projectPath: Assets\Materials\Material__51.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\body.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\body.mat
+      projectPath: Assets\Materials\body.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\boots.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\boots.mat
+      projectPath: Assets\Materials\boots.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\fence.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\fence.mat
+      projectPath: Assets\Materials\fence.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\hands.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\hands.mat
+      projectPath: Assets\Materials\hands.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\head.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\head.mat
+      projectPath: Assets\Materials\head.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\legs.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\legs.mat
+      projectPath: Assets\Materials\legs.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\parcour.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Materials\parcour.mat
+      projectPath: Assets\Materials\parcour.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Bench\Materials\bench_texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Bench\Materials\bench_texture.mat
+      projectPath: Assets\Models\Bench\Materials\bench_texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Bench\Materials\windmill_pole.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Bench\Materials\windmill_pole.mat
+      projectPath: Assets\Models\Bench\Materials\windmill_pole.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Bench\bench.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Bench\bench.FBX
+      projectPath: Assets\Models\Bench\bench.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Bench\bench_texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Bench\bench_texture.jpg
+      projectPath: Assets\Models\Bench\bench_texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Bench\bench_texture1.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Bench\bench_texture1.jpg
+      projectPath: Assets\Models\Bench\bench_texture1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Build_001\Materials\build_001_texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Build_001\Materials\build_001_texture.mat
+      projectPath: Assets\Models\Build_001\Materials\build_001_texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Build_001\build_001.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Build_001\build_001.FBX
+      projectPath: Assets\Models\Build_001\build_001.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Build_001\build_001_texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Build_001\build_001_texture.jpg
+      projectPath: Assets\Models\Build_001\build_001_texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Build_001\test.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Build_001\test.png
+      projectPath: Assets\Models\Build_001\test.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Building construction\Materials\bc texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Building
+        construction\Materials\bc texture.mat
+      projectPath: Assets\Models\Building construction\Materials\bc texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Building construction\bc texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Building
+        construction\bc texture.jpg
+      projectPath: Assets\Models\Building construction\bc texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Building construction\building construction.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Building
+        construction\building construction.FBX
+      projectPath: Assets\Models\Building construction\building construction.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Dump\Materials\No Name.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Dump\Materials\No
+        Name.mat
+      projectPath: Assets\Models\Dump\Materials\No Name.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Dump\Materials\uvw_urn.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Dump\Materials\uvw_urn.mat
+      projectPath: Assets\Models\Dump\Materials\uvw_urn.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Dump\urn.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Dump\urn.FBX
+      projectPath: Assets\Models\Dump\urn.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Dump\uvw_urn.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Dump\uvw_urn.jpg
+      projectPath: Assets\Models\Dump\uvw_urn.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Dump\uvw_urn1.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Dump\uvw_urn1.jpg
+      projectPath: Assets\Models\Dump\uvw_urn1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Embankment\Materials\embankment texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Embankment\Materials\embankment
+        texture.mat
+      projectPath: Assets\Models\Embankment\Materials\embankment texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Embankment\embankment texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Embankment\embankment
+        texture.jpg
+      projectPath: Assets\Models\Embankment\embankment texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Embankment\embankment.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Embankment\embankment.FBX
+      projectPath: Assets\Models\Embankment\embankment.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Garage\Materials\No Name.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Garage\Materials\No
+        Name.mat
+      projectPath: Assets\Models\Garage\Materials\No Name.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Garage\Materials\garage_texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Garage\Materials\garage_texture.mat
+      projectPath: Assets\Models\Garage\Materials\garage_texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Garage\garage.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Garage\garage.FBX
+      projectPath: Assets\Models\Garage\garage.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Garage\garage_texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Garage\garage_texture.jpg
+      projectPath: Assets\Models\Garage\garage_texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Garage\garage_texture1.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Garage\garage_texture1.jpg
+      projectPath: Assets\Models\Garage\garage_texture1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Ladder\Materials\metall.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Ladder\Materials\metall.mat
+      projectPath: Assets\Models\Ladder\Materials\metall.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Ladder\ladder-end.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Ladder\ladder-end.FBX
+      projectPath: Assets\Models\Ladder\ladder-end.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Ladder\ladder.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Ladder\ladder.FBX
+      projectPath: Assets\Models\Ladder\ladder.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Ladder\metall.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Ladder\metall.jpg
+      projectPath: Assets\Models\Ladder\metall.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\Material__46.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\Material__46.mat
+      projectPath: Assets\Models\Player\Materials\Material__46.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\Material__47.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\Material__47.mat
+      projectPath: Assets\Models\Player\Materials\Material__47.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\Material__49.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\Material__49.mat
+      projectPath: Assets\Models\Player\Materials\Material__49.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\Material__50.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\Material__50.mat
+      projectPath: Assets\Models\Player\Materials\Material__50.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\Material__51.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\Material__51.mat
+      projectPath: Assets\Models\Player\Materials\Material__51.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\body 1.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\body
+        1.mat
+      projectPath: Assets\Models\Player\Materials\body 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\body.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\body.mat
+      projectPath: Assets\Models\Player\Materials\body.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\boots 1.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\boots
+        1.mat
+      projectPath: Assets\Models\Player\Materials\boots 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\boots.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\boots.mat
+      projectPath: Assets\Models\Player\Materials\boots.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\hands 1.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\hands
+        1.mat
+      projectPath: Assets\Models\Player\Materials\hands 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\hands.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\hands.mat
+      projectPath: Assets\Models\Player\Materials\hands.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\head 1.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\head
+        1.mat
+      projectPath: Assets\Models\Player\Materials\head 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\head.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\head.mat
+      projectPath: Assets\Models\Player\Materials\head.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\legs 1.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\legs
+        1.mat
+      projectPath: Assets\Models\Player\Materials\legs 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\Materials\legs.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\Materials\legs.mat
+      projectPath: Assets\Models\Player\Materials\legs.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\body.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\body.jpg
+      projectPath: Assets\Models\Player\body.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\boots.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\boots.jpg
+      projectPath: Assets\Models\Player\boots.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\hands.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\hands.jpg
+      projectPath: Assets\Models\Player\hands.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\head.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\head.jpg
+      projectPath: Assets\Models\Player\head.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\legs.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\legs.jpg
+      projectPath: Assets\Models\Player\legs.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Player\player.fbx
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Player\player.fbx
+      projectPath: Assets\Models\Player\player.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Simple build 001\Materials\simple_build_001_texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Simple
+        build 001\Materials\simple_build_001_texture.mat
+      projectPath: Assets\Models\Simple build 001\Materials\simple_build_001_texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Simple build 001\simple build 001.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Simple
+        build 001\simple build 001.FBX
+      projectPath: Assets\Models\Simple build 001\simple build 001.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Simple build 001\simple_build_0011_texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Simple
+        build 001\simple_build_0011_texture.jpg
+      projectPath: Assets\Models\Simple build 001\simple_build_0011_texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Simple build 001\simple_build_001_texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Simple
+        build 001\simple_build_001_texture.jpg
+      projectPath: Assets\Models\Simple build 001\simple_build_001_texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\Materials\No Name.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\Materials\No
+        Name.mat
+      projectPath: Assets\Models\Windmill\Materials\No Name.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\Materials\windmill_pole.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\Materials\windmill_pole.mat
+      projectPath: Assets\Models\Windmill\Materials\windmill_pole.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\Materials\windmill_screw.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\Materials\windmill_screw.mat
+      projectPath: Assets\Models\Windmill\Materials\windmill_screw.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\simple_pole.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\simple_pole.FBX
+      projectPath: Assets\Models\Windmill\simple_pole.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\windmill.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\windmill.FBX
+      projectPath: Assets\Models\Windmill\windmill.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\windmill_pole.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\windmill_pole.jpg
+      projectPath: Assets\Models\Windmill\windmill_pole.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Windmill\windmill_screw.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Windmill\windmill_screw.jpg
+      projectPath: Assets\Models\Windmill\windmill_screw.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Wood\Materials\wood texture.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Wood\Materials\wood
+        texture.mat
+      projectPath: Assets\Models\Wood\Materials\wood texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Wood\wood texture.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Wood\wood
+        texture.jpg
+      projectPath: Assets\Models\Wood\wood texture.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\Wood\wood.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\Wood\wood.FBX
+      projectPath: Assets\Models\Wood\wood.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\build_with_arch\Materials\wall_build_arch_tex.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\build_with_arch\Materials\wall_build_arch_tex.mat
+      projectPath: Assets\Models\build_with_arch\Materials\wall_build_arch_tex.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\build_with_arch\Materials\win_build_arch_tex.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\build_with_arch\Materials\win_build_arch_tex.mat
+      projectPath: Assets\Models\build_with_arch\Materials\win_build_arch_tex.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\build_with_arch\build_with_arch.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\build_with_arch\build_with_arch.FBX
+      projectPath: Assets\Models\build_with_arch\build_with_arch.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\build_with_arch\wall_build_arch_tex.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\build_with_arch\wall_build_arch_tex.jpg
+      projectPath: Assets\Models\build_with_arch\wall_build_arch_tex.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\build_with_arch\win_build_arch_tex.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\build_with_arch\win_build_arch_tex.jpg
+      projectPath: Assets\Models\build_with_arch\win_build_arch_tex.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\Materials\texture_flat_with_door.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\Materials\texture_flat_with_door.mat
+      projectPath: Assets\Models\flats\Materials\texture_flat_with_door.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\Materials\texture_flat_with_window.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\Materials\texture_flat_with_window.mat
+      projectPath: Assets\Models\flats\Materials\texture_flat_with_window.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\flat_with_door.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\flat_with_door.FBX
+      projectPath: Assets\Models\flats\flat_with_door.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\flat_with_window.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\flat_with_window.FBX
+      projectPath: Assets\Models\flats\flat_with_window.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\texture_flat_with_door.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\texture_flat_with_door.jpg
+      projectPath: Assets\Models\flats\texture_flat_with_door.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\texture_flat_with_door1.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\texture_flat_with_door1.jpg
+      projectPath: Assets\Models\flats\texture_flat_with_door1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\texture_flat_with_window.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\texture_flat_with_window.jpg
+      projectPath: Assets\Models\flats\texture_flat_with_window.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\flats\texture_flat_with_window1.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\flats\texture_flat_with_window1.jpg
+      projectPath: Assets\Models\flats\texture_flat_with_window1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\garage_bricks\Materials\texture_garage_bricks.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\garage_bricks\Materials\texture_garage_bricks.mat
+      projectPath: Assets\Models\garage_bricks\Materials\texture_garage_bricks.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\garage_bricks\garage_bricks.FBX
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\garage_bricks\garage_bricks.FBX
+      projectPath: Assets\Models\garage_bricks\garage_bricks.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Models\garage_bricks\texture_garage_bricks.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Models\garage_bricks\texture_garage_bricks.jpg
+      projectPath: Assets\Models\garage_bricks\texture_garage_bricks.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Blood\BloodParticleSystem.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Blood\BloodParticleSystem.prefab
+      projectPath: Assets\Prefs\Blood\BloodParticleSystem.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\Character 1.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\Character
+        1.prefab
+      projectPath: Assets\Prefs\Character\Character 1.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\Character.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\Character.prefab
+      projectPath: Assets\Prefs\Character\Character.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\Character_1 1.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\Character_1
+        1.prefab
+      projectPath: Assets\Prefs\Character\Character_1 1.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\Character_1 2.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\Character_1
+        2.prefab
+      projectPath: Assets\Prefs\Character\Character_1 2.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\Controls.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\Controls.prefab
+      projectPath: Assets\Prefs\Character\Controls.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\EventSystem.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\EventSystem.prefab
+      projectPath: Assets\Prefs\Character\EventSystem.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Character\Shadow.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Character\Shadow.prefab
+      projectPath: Assets\Prefs\Character\Shadow.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\bench.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\bench.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\bench.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\embankment.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\embankment.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\embankment.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\flat_with_door.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\flat_with_door.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\flat_with_door.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\flat_with_window.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\flat_with_window.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\flat_with_window.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\garage.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\garage.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\garage.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\garage_bricks.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\garage_bricks.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\garage_bricks.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\simple build 001.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\simple
+        build 001.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\simple build 001.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\CreatorLocationBuilds\urn.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\CreatorLocationBuilds\urn.prefab
+      projectPath: Assets\Prefs\CreatorLocationBuilds\urn.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\Materials\texture_garage_bricks.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\Materials\texture_garage_bricks.mat
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\Materials\texture_garage_bricks.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\bench.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\bench.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\bench.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\building construction.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\building construction.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\building construction.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\embankment.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\embankment.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\embankment.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\fence.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\fence.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\fence.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\flat_with_door.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\flat_with_door.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\flat_with_door.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\flat_with_window.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\flat_with_window.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\flat_with_window.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\garage.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\garage.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\garage.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\garage_bricks.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\garage_bricks.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\garage_bricks.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\ladder (1).prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\ladder (1).prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\ladder (1).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\simple build 001.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\simple build 001.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\simple build 001.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\urn.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\urn.prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\urn.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\NewBuilds\windmill (1).prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\NewBuilds\windmill (1).prefab
+      projectPath: Assets\Prefs\Location\First location\NewBuilds\windmill (1).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\bench.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\bench.prefab
+      projectPath: Assets\Prefs\Location\First location\bench.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\building construction.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\building construction.prefab
+      projectPath: Assets\Prefs\Location\First location\building construction.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\embankment (1).prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\embankment (1).prefab
+      projectPath: Assets\Prefs\Location\First location\embankment (1).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\garage.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\garage.prefab
+      projectPath: Assets\Prefs\Location\First location\garage.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\ladder (1).prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\ladder (1).prefab
+      projectPath: Assets\Prefs\Location\First location\ladder (1).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\simple build 001.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\simple build 001.prefab
+      projectPath: Assets\Prefs\Location\First location\simple build 001.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\urn.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\urn.prefab
+      projectPath: Assets\Prefs\Location\First location\urn.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\First location\windmill (1).prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\First
+        location\windmill (1).prefab
+      projectPath: Assets\Prefs\Location\First location\windmill (1).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\build_001.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\build_001.prefab
+      projectPath: Assets\Prefs\Location\build_001.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Location\fence_001.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Location\fence_001.prefab
+      projectPath: Assets\Prefs\Location\fence_001.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\Finish.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\Finish.prefab
+      projectPath: Assets\Prefs\Star\Finish.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\FinishMat.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\FinishMat.mat
+      projectPath: Assets\Prefs\Star\FinishMat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\FinishTrigger.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\FinishTrigger.cs
+      projectPath: Assets\Prefs\Star\FinishTrigger.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\GoldStar.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\GoldStar.mat
+      projectPath: Assets\Prefs\Star\GoldStar.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\InfoAboutLvl.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\InfoAboutLvl.cs
+      projectPath: Assets\Prefs\Star\InfoAboutLvl.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\MainScoreClass.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\MainScoreClass.cs
+      projectPath: Assets\Prefs\Star\MainScoreClass.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\ShowInfoLvl.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\ShowInfoLvl.cs
+      projectPath: Assets\Prefs\Star\ShowInfoLvl.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\Star.controller
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\Star.controller
+      projectPath: Assets\Prefs\Star\Star.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\Star.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\Star.prefab
+      projectPath: Assets\Prefs\Star\Star.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\StarAnima.anim
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\StarAnima.anim
+      projectPath: Assets\Prefs\Star\StarAnima.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\Star\StarCollect.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\Star\StarCollect.cs
+      projectPath: Assets\Prefs\Star\StarCollect.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Location.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Location.prefab
+      projectPath: Assets\Prefs\UI\Location.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\RayTest.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\RayTest.cs
+      projectPath: Assets\Prefs\UI\RayTest.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\Dump.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\Dump.jpg
+      projectPath: Assets\Prefs\UI\Renders\Dump.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\Garage.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\Garage.jpg
+      projectPath: Assets\Prefs\UI\Renders\Garage.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\Garage_bricks.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\Garage_bricks.jpg
+      projectPath: Assets\Prefs\UI\Renders\Garage_bricks.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\bench.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\bench.jpg
+      projectPath: Assets\Prefs\UI\Renders\bench.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\embankment.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\embankment.jpg
+      projectPath: Assets\Prefs\UI\Renders\embankment.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\flat_with_door.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\flat_with_door.jpg
+      projectPath: Assets\Prefs\UI\Renders\flat_with_door.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\flat_with_window.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\flat_with_window.jpg
+      projectPath: Assets\Prefs\UI\Renders\flat_with_window.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Renders\simple_build.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Renders\simple_build.jpg
+      projectPath: Assets\Prefs\UI\Renders\simple_build.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\Scroll View.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\Scroll
+        View.prefab
+      projectPath: Assets\Prefs\UI\Scroll View.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefs\UI\btns_style.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Prefs\UI\btns_style.png
+      projectPath: Assets\Prefs\UI\btns_style.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Creator.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\Creator.unity
+      projectPath: Assets\Scenes\Creator.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\CreatorNew.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\CreatorNew.unity
+      projectPath: Assets\Scenes\CreatorNew.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\EmptySceene.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\EmptySceene.unity
+      projectPath: Assets\Scenes\EmptySceene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\LoadScreen.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\LoadScreen.unity
+      projectPath: Assets\Scenes\LoadScreen.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Singleplayer\beta_location.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\Singleplayer\beta_location.unity
+      projectPath: Assets\Scenes\Singleplayer\beta_location.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\first sceene.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\first
+        sceene.unity
+      projectPath: Assets\Scenes\first sceene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\line_renderer_test.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\line_renderer_test.unity
+      projectPath: Assets\Scenes\line_renderer_test.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\test new patterns.unity
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scenes\test
+        new patterns.unity
+      projectPath: Assets\Scenes\test new patterns.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\AntialiasingEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\AntialiasingEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\AntialiasingEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\BloomAndFlaresEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\BloomAndFlaresEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\BloomAndFlaresEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\BloomEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\BloomEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\BloomEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\CameraMotionBlurEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\CameraMotionBlurEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\CameraMotionBlurEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\ColorCorrectionCurvesEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\ColorCorrectionCurvesEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\ColorCorrectionCurvesEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\ColorCorrectionLookupEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\ColorCorrectionLookupEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\ColorCorrectionLookupEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\CreaseShadingEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\CreaseShadingEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\CreaseShadingEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\DepthOfFieldDeprecatedEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\DepthOfFieldDeprecatedEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\DepthOfFieldDeprecatedEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\DepthOfFieldEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\DepthOfFieldEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\DepthOfFieldEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\EdgeDetectionEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\EdgeDetectionEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\EdgeDetectionEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\NoiseAndGrainEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\NoiseAndGrainEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\NoiseAndGrainEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\SunShaftsEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\SunShaftsEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\SunShaftsEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\TonemappingEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\TonemappingEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\TonemappingEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs
+      projectPath: Assets\Standard Assets\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Antialiasing.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Bloom.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Blur.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\CreaseShading.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\DepthOfField.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Fisheye.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\GlobalFog.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Grayscale.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ImageEffects.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\MotionBlur.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Quads.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\SepiaTone.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\SunShafts.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\TiltShift.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Tonemapping.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Triangles.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Twirl.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Scripts\Vortex.cs
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\CreaseApply.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\GlobalFog.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\MotionBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\RadialBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\SSAOShader.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceRaytrace.cginc
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ScreenSpaceRaytrace.cginc
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceRaytrace.cginc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\SimpleClear.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\Tonemapper.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\VignettingShader.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\VortexEffect.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Shaders\frag_ao.cginc
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\ContrastEnhanced3D16.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\ContrastEnhanced3D16.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\ContrastEnhanced3D16.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\HexShape.psd
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\HexShape.psd
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\HexShape.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\MotionBlurJitter.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\MotionBlurJitter.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\MotionBlurJitter.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\Neutral3D16.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\Neutral3D16.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\Neutral3D16.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\Noise.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\Noise.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\Noise.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\NoiseAndGrain.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\NoiseAndGrain.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\NoiseAndGrain.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\NoiseEffectGrain.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\NoiseEffectGrain.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\NoiseEffectGrain.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\NoiseEffectScratch.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\NoiseEffectScratch.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\NoiseEffectScratch.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\RandomVectors.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\RandomVectors.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\RandomVectors.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\SphereShape.psd
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\SphereShape.psd
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\SphereShape.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\VignetteMask.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\VignetteMask.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\VignetteMask.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\color correction
+        ramp.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\color correction ramp.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\color correction
+        ramp.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Standard Assets\Effects\ImageEffects\Textures\grayscale ramp.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Standard
+        Assets\Effects\ImageEffects\Textures\grayscale ramp.png
+      projectPath: Assets\Standard Assets\Effects\ImageEffects\Textures\grayscale
+        ramp.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\1138.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\1138.jpg
+      projectPath: Assets\Textures\1138.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\BloodMat.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\BloodMat.mat
+      projectPath: Assets\Textures\BloodMat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\Build.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\Build.mat
+      projectPath: Assets\Textures\Build.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\Ground.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\Ground.mat
+      projectPath: Assets\Textures\Ground.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\WaterMat.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\WaterMat.mat
+      projectPath: Assets\Textures\WaterMat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\action_icon.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\action_icon.png
+      projectPath: Assets\Textures\action_icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\blood.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\blood.png
+      projectPath: Assets\Textures\blood.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\close_icon.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\close_icon.png
+      projectPath: Assets\Textures\close_icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\control_btns_sprite.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\control_btns_sprite.png
+      projectPath: Assets\Textures\control_btns_sprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\control_btns_sprite_info.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\control_btns_sprite_info.png
+      projectPath: Assets\Textures\control_btns_sprite_info.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\fence.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\fence.png
+      projectPath: Assets\Textures\fence.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\parcour.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\parcour.jpg
+      projectPath: Assets\Textures\parcour.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\restart_icon.png
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\restart_icon.png
+      projectPath: Assets\Textures\restart_icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ui.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\ui.mat
+      projectPath: Assets\Textures\ui.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\water.jpg
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Textures\water.jpg
+      projectPath: Assets\Textures\water.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: app.config
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\app.config
+      projectPath: app.config
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 0e369f0ce3ea57c2b5d46d71f4f21956ddee757a
+    mergeA: 
+    mergeB: 
+    authorName: moiseenkov
+    authorEmail: kirillmoiseenkov@mail.ru
+    commitEmail: kirillmoiseenkov@mail.ru
+    commitName: moiseenkov
+    summary: second initial commit
+    description: second initial commit
+    timeString: 2019-01-03T16:26:15.000+04:00
+    commitTimeString: 2019-01-03T16:26:15.000+04:00
+    changes:
+    - path: Assets\New Character Pattern\Death\Assassin.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Death\Assassin.cs
+      projectPath: Assets\New Character Pattern\Death\Assassin.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Death\DefenderDestroyer.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Death\DefenderDestroyer.cs
+      projectPath: Assets\New Character Pattern\Death\DefenderDestroyer.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Elements\ElementBaker.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Elements\ElementBaker.cs
+      projectPath: Assets\New Character Pattern\Elements\ElementBaker.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Elements\ElementBuilder.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Elements\ElementBuilder.cs
+      projectPath: Assets\New Character Pattern\Elements\ElementBuilder.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Elements\ElementBuilderAtTheGround.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Elements\ElementBuilderAtTheGround.cs
+      projectPath: Assets\New Character Pattern\Elements\ElementBuilderAtTheGround.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Elements\ElementBuilderInTheFalling.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Elements\ElementBuilderInTheFalling.cs
+      projectPath: Assets\New Character Pattern\Elements\ElementBuilderInTheFalling.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Elements\TrickElement.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Elements\TrickElement.cs
+      projectPath: Assets\New Character Pattern\Elements\TrickElement.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\ObjectsData\TricksData.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\ObjectsData\TricksData.cs
+      projectPath: Assets\New Character Pattern\ObjectsData\TricksData.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Other\CameraBinder.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Other\CameraBinder.cs
+      projectPath: Assets\New Character Pattern\Other\CameraBinder.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Other\GroundChecker.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Other\GroundChecker.cs
+      projectPath: Assets\New Character Pattern\Other\GroundChecker.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Other\Test.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Other\Test.cs
+      projectPath: Assets\New Character Pattern\Other\Test.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\Other\TrickAdapter.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\Other\TrickAdapter.cs
+      projectPath: Assets\New Character Pattern\Other\TrickAdapter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\PlayerStages\BehaviorController.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\PlayerStages\BehaviorController.cs
+      projectPath: Assets\New Character Pattern\PlayerStages\BehaviorController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\PlayerStages\IPlayerStage.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\PlayerStages\IPlayerStage.cs
+      projectPath: Assets\New Character Pattern\PlayerStages\IPlayerStage.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\PlayerStages\PlayerFallBehavior.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\PlayerStages\PlayerFallBehavior.cs
+      projectPath: Assets\New Character Pattern\PlayerStages\PlayerFallBehavior.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\PlayerStages\PlayerGroundBehavior.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\PlayerStages\PlayerGroundBehavior.cs
+      projectPath: Assets\New Character Pattern\PlayerStages\PlayerGroundBehavior.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Character Pattern\TirckHandler\TrickHandler.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\New
+        Character Pattern\TirckHandler\TrickHandler.cs
+      projectPath: Assets\New Character Pattern\TirckHandler\TrickHandler.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Character.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Character.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Character.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\CharacterMain.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\CharacterMain.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\CharacterMain.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Death\Death.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Death\Death.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Death\Death.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Death\DethDetected.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Death\DethDetected.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Death\DethDetected.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Move\Tricks.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Move\Tricks.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Move\Tricks.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Move\Trigger.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Move\Trigger.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Move\Trigger.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Move\TriggerAction.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Move\TriggerAction.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Move\TriggerAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\ColliderFit.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\ColliderFit.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\ColliderFit.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\CollisionDetect.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\CollisionDetect.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\CollisionDetect.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\Controller.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\Controller.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\Controller.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\EventGeter.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\EventGeter.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\EventGeter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\MyDir.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\MyDir.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\MyDir.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\PlayerDeathTrigger.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\PlayerDeathTrigger.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\PlayerDeathTrigger.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\SmallDebugMenu\RayCastTest.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\SmallDebugMenu\RayCastTest.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\SmallDebugMenu\RayCastTest.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\SmallDebugMenu\SmallMeths.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\SmallDebugMenu\SmallMeths.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\SmallDebugMenu\SmallMeths.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\Other\Star.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\Other\Star.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\Other\Star.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Character Controller Scripts\ShadowOfPlayer.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\ShadowOfPlayer.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\ShadowOfPlayer.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Creator\Creator.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Creator\Creator.cs
+      projectPath: Assets\Scripts\Creator\Creator.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Creator\Data.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Creator\Data.cs
+      projectPath: Assets\Scripts\Creator\Data.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Creator\DataTester.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Creator\DataTester.cs
+      projectPath: Assets\Scripts\Creator\DataTester.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Creator\WaitingForLoadedLevel.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Creator\WaitingForLoadedLevel.cs
+      projectPath: Assets\Scripts\Creator\WaitingForLoadedLevel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Network\Client.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Network\Client.cs
+      projectPath: Assets\Scripts\Network\Client.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\AbstractData.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\AbstractData.cs
+      projectPath: Assets\Scripts\NewCreator\AbstractData.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\CameraMove.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\CameraMove.cs
+      projectPath: Assets\Scripts\NewCreator\CameraMove.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\DirectorySearch.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\DirectorySearch.cs
+      projectPath: Assets\Scripts\NewCreator\DirectorySearch.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\GameObjectConverter.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\GameObjectConverter.cs
+      projectPath: Assets\Scripts\NewCreator\GameObjectConverter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\GameObjectPrefab.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\GameObjectPrefab.cs
+      projectPath: Assets\Scripts\NewCreator\GameObjectPrefab.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\LoadSceene.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\LoadSceene.cs
+      projectPath: Assets\Scripts\NewCreator\LoadSceene.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\LocationButton.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\LocationButton.cs
+      projectPath: Assets\Scripts\NewCreator\LocationButton.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\LocationData.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\LocationData.cs
+      projectPath: Assets\Scripts\NewCreator\LocationData.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\Main Camera.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\Main
+        Camera.prefab
+      projectPath: Assets\Scripts\NewCreator\Main Camera.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\MainMenu.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\MainMenu.cs
+      projectPath: Assets\Scripts\NewCreator\MainMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\MapEditor.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\MapEditor.cs
+      projectPath: Assets\Scripts\NewCreator\MapEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\MashtabBtns.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\MashtabBtns.cs
+      projectPath: Assets\Scripts\NewCreator\MashtabBtns.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\ActionsWithPref.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\ActionsWithPref.cs
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\ActionsWithPref.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\Build 1.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\Build
+        1.mat
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\Build 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\Build 1.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\Build
+        1.prefab
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\Build 1.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\Build 2.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\Build
+        2.mat
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\Build 2.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\Build 2.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\Build
+        2.prefab
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\Build 2.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\Character_1 2.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\Character_1
+        2.prefab
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\Character_1 2.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs1\Materials\No Name.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs1\Materials\No
+        Name.mat
+      projectPath: Assets\Scripts\NewCreator\TestPrefs1\Materials\No Name.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs2\Build 1.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs2\Build
+        1.prefab
+      projectPath: Assets\Scripts\NewCreator\TestPrefs2\Build 1.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewCreator\TestPrefs2\Build 2.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewCreator\TestPrefs2\Build
+        2.prefab
+      projectPath: Assets\Scripts\NewCreator\TestPrefs2\Build 2.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\NewScriptThatUsedPattern\Element.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\NewScriptThatUsedPattern\Element.cs
+      projectPath: Assets\Scripts\NewScriptThatUsedPattern\Element.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Sound\BackgroundSound.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Sound\BackgroundSound.cs
+      projectPath: Assets\Scripts\Sound\BackgroundSound.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Sound\BackgroundSound.prefab
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Sound\BackgroundSound.prefab
+      projectPath: Assets\Scripts\Sound\BackgroundSound.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Sound\laggard - Crackin.mp3
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Sound\laggard
+        - Crackin.mp3
+      projectPath: Assets\Scripts\Sound\laggard - Crackin.mp3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\line renderer test\CreateLine.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\line
+        renderer test\CreateLine.cs
+      projectPath: Assets\Scripts\line renderer test\CreateLine.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\line renderer test\New Material.mat
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\line
+        renderer test\New Material.mat
+      projectPath: Assets\Scripts\line renderer test\New Material.mat
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 945dd635108108ccf669da8b5ad429b9fe680c03
+    mergeA: 
+    mergeB: 
+    authorName: moiseenkov
+    authorEmail: kirillmoiseenkov@mail.ru
+    commitEmail: kirillmoiseenkov@mail.ru
+    commitName: moiseenkov
+    summary: initial
+    description: "initial\r\n\r\ninitila  commint"
+    timeString: 2019-01-03T16:24:40.000+04:00
+    commitTimeString: 2019-01-03T16:24:40.000+04:00
+    changes:
+    - path: Assets\Scripts\Character Controller Scripts\AbstractClassOfPlayer.cs
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\Assets\Scripts\Character
+        Controller Scripts\AbstractClassOfPlayer.cs
+      projectPath: Assets\Scripts\Character Controller Scripts\AbstractClassOfPlayer.cs
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 34962e51a9292db2a6bdebfb1ab08c815ae7c8cf
+    mergeA: 
+    mergeB: 
+    authorName: moiseenkov
+    authorEmail: kirillmoiseenkov@mail.ru
+    commitEmail: kirillmoiseenkov@mail.ru
+    commitName: moiseenkov
+    summary: "\u0414\u043E\u0431\u0430\u0432\u044C\u0442\u0435 GITIGNORE- \u0438 GITATTRIBUTES-\u0444\u0430\u0439\u043B\u044B."
+    description: "\u0414\u043E\u0431\u0430\u0432\u044C\u0442\u0435 GITIGNORE- \u0438
+      GITATTRIBUTES-\u0444\u0430\u0439\u043B\u044B."
+    timeString: 2019-01-02T00:30:42.000+04:00
+    commitTimeString: 2019-01-02T00:30:42.000+04:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\moiseenkov\Desktop\with new patterns 12.01.18\Parcour\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
